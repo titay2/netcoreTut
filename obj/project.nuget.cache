@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iqhLfIqUPiUzevmwnWH5VXkg4WqgP8XaRIl/+s/t40g2WLAalIeA2Fmya27WdDrvXP09YmPWqXIGDcjkZMigdA==",
+  "dgSpecHash": "VzIQ77kEatV6kls+fwb7ycjJCODXUtdvV/RNsm/yZoEARb6+SVcWrj/bcDNGZjfdgbc6xcbwyBAE+bZvKGWwaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tehetena\\source\\repos\\testtut\\testtut.csproj",
+  "projectFilePath": "C:\\Users\\tehetena\\source\\repos\\netcoreTut\\testtut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tehetena\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\tehetena\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.0\\microsoft.data.sqlite.core.3.0.0.nupkg.sha512",

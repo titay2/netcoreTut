@@ -1130,11 +1130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tehetena\\source\\repos\\testtut\\testtut.csproj",
+      "projectUniqueName": "C:\\Users\\tehetena\\source\\repos\\netcoreTut\\testtut.csproj",
       "projectName": "testtut",
-      "projectPath": "C:\\Users\\tehetena\\source\\repos\\testtut\\testtut.csproj",
+      "projectPath": "C:\\Users\\tehetena\\source\\repos\\netcoreTut\\testtut.csproj",
       "packagesPath": "C:\\Users\\tehetena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tehetena\\source\\repos\\testtut\\obj\\",
+      "outputPath": "C:\\Users\\tehetena\\source\\repos\\netcoreTut\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
